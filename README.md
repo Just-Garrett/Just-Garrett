@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **Just_Garrett@protonmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/190IyteBxP4mW6EnE8WvhmeY3ZRN_JQkd/edit?usp=sharing&ouid=105996852429619524850&rtpof=true&sd=true](https://docs.google.com/document/d/190IyteBxP4mW6EnE8WvhmeY3ZRN_JQkd/edit?usp=sharing&ouid=105996852429619524850&rtpof=true&sd=true)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/190IyteBxP4mW6EnE8WvhmeY3ZRN_JQkd/edit?usp=sharing&ouid=105996852429619524850&rtpof=true&sd=true)
+
+- 👋 Or check out my [website](garrett-brown-portfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
